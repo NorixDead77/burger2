@@ -172,9 +172,10 @@ padding-bottom: 10px;
   }
 .footer {
   background-color: #1E2F40;
-  height: 403px;
+  height: 230px;
  display: flex;
  justify-content: space-evenly;
+  padding-top: 111px;
 }
 .icon img{
   width: 63px;
